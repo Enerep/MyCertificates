@@ -47,8 +47,9 @@ Troubleshooting and Debugging Techniques(Google): https://coursera.org/share/ab9
 Introduction to Git and GitHub(Google): https://coursera.org/share/720902b513129ba6726f40f86cb174b8
 ------------------------------------------------------------------------
 Python 3 certificate: https://www.sololearn.com/certificates/course/en/8244074/1073/landscape/pdf
-
-
+------------------------------------------------------------------------
+Ruby certificate: https://www.sololearn.com/Certificate/1081-8244074/pdf/
+------------------------------------------------------------------------
 
 
 
