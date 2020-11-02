@@ -50,6 +50,6 @@ Python 3 certificate: https://www.sololearn.com/certificates/course/en/8244074/1
 ------------------------------------------------------------------------
 Ruby certificate: https://www.sololearn.com/Certificate/1081-8244074/pdf/
 ------------------------------------------------------------------------
-
+Configuration Management and the Cloud(Google): https://coursera.org/share/b738de3fbf4de8a4ba7c29af13bdda7e
 
 
