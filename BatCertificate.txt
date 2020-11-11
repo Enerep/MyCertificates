@@ -53,4 +53,6 @@ Ruby certificate: https://www.sololearn.com/Certificate/1081-8244074/pdf/
 Configuration Management and the Cloud(Google): https://coursera.org/share/b738de3fbf4de8a4ba7c29af13bdda7e
 ------------------------------------------------------------------------
 Automating Real-World Tasks with Python(Google): https://coursera.org/share/84df15b5da53edeea413d5a6c39e3f4c
+------------------------------------------------------------------------
+# Google IT Automation with Python: https://coursera.org/share/3c9036b5e208c5b51f8db30e1e28c7a2
 
