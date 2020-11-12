@@ -1,0 +1,59 @@
+# ⋅⋅* [C++ certificate:](https://www.sololearn.com/Certificate/1051-8244074/pdf/)
+------------------------------------------------------------------------
+C certificate: https://www.sololearn.com/Certificate/1089-8244074/pdf/
+------------------------------------------------------------------------
+HTML certificate: https://www.sololearn.com/Certificate/1014-8244074/pdf/
+------------------------------------------------------------------------
+Javascript certificate: https://drive.google.com/file/d/1qPj8EC_4xG-zECxI8LIPf4hJ0-CCFaEa/view?usp=drivesdk
+------------------------------------------------------------------------
+CSS certificate: https://www.sololearn.com/Certificate/1023-8244074/pdf/
+------------------------------------------------------------------------
+C# certificate: https://www.sololearn.com/Certificate/1080-8244074/pdf/
+------------------------------------------------------------------------
+Student Exchange Year(ASSE): https://drive.google.com/file/d/1EUpsHy0blL3OFVS1rQqrSFsAtYTNhqXU/view?usp=drivesdk
+------------------------------------------------------------------------
+Andrew - Machine Learning(Coursera): https://drive.google.com/file/d/1HX1nFxjIVQH2ZC1Ja8WwMNjf1EBTAE1i/view?usp=drivesdk
+------------------------------------------------------------------------
+JavaScript certificate: https://www.sololearn.com/Certificate/1024-8244074/pdf/
+------------------------------------------------------------------------
+Java certificate: https://www.sololearn.com/Certificate/1068-8244074/pdf/
+------------------------------------------------------------------------
+PHP certificate: https://www.sololearn.com/Certificate/1059-8244074/pdf/
+------------------------------------------------------------------------
+SQL certificate: https://www.sololearn.com/Certificate/1060-8244074/pdf/
+------------------------------------------------------------------------
+Crisfield Grades (ASSE, Transcript): https://drive.google.com/file/d/1dARiFt2TW-Tu4VXun_GXEl9A-AX7A7uS/view?usp=drivesdk
+------------------------------------------------------------------------
+Machine Learning certificate: https://www.sololearn.com/Certificate/1094-8244074/pdf/
+------------------------------------------------------------------------
+Using Python To Interact With Operating System(Google): https://coursera.org/share/48b1e706260ad7c0484d9273e483c704
+------------------------------------------------------------------------
+Crash Course On Python(Google): https://coursera.org/share/a7080c89f16486b1cdbfcc9369351d08
+------------------------------------------------------------------------
+Python(HackerRank): https://www.hackerrank.com/certificates/97495fc72593
+------------------------------------------------------------------------
+Swift 4 certificate: https://www.sololearn.com/Certificate/1075-8244074/pdf/
+------------------------------------------------------------------------
+Data Science With Python: https://www.sololearn.com/Certificate/1093-8244074/pdf/
+------------------------------------------------------------------------
+Java(HackerRank): https://www.hackerrank.com/certificates/0a785acf9e5c
+------------------------------------------------------------------------
+C++(HackerRank): https://www.hackerrank.com/certificates/49fbc2f21535
+------------------------------------------------------------------------
+Back To School(SoloLearn): http://sololearn-media9960.cloudapp.net:4687/api/v2/certificate/bts-completion/8244074?language=en&orientation=landscape&format=pdf
+------------------------------------------------------------------------
+Troubleshooting and Debugging Techniques(Google): https://coursera.org/share/ab972ec3ec47653f49364cc6620526b6
+------------------------------------------------------------------------
+Introduction to Git and GitHub(Google): https://coursera.org/share/720902b513129ba6726f40f86cb174b8
+------------------------------------------------------------------------
+Python 3 certificate: https://www.sololearn.com/certificates/course/en/8244074/1073/landscape/pdf
+------------------------------------------------------------------------
+Ruby certificate: https://www.sololearn.com/Certificate/1081-8244074/pdf/
+------------------------------------------------------------------------
+Configuration Management and the Cloud(Google): https://coursera.org/share/b738de3fbf4de8a4ba7c29af13bdda7e
+------------------------------------------------------------------------
+Automating Real-World Tasks with Python(Google): https://coursera.org/share/84df15b5da53edeea413d5a6c39e3f4c
+------------------------------------------------------------------------
+    Google IT Automation with Python: https://coursera.org/share/3c9036b5e208c5b51f8db30e1e28c7a2
+
+    Google IT Automation with Python Badge:https://www.youracclaim.com/badges/875e63d8-9eff-4d1e-a91b-912b21a21896/public_url
