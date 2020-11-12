@@ -1,4 +1,4 @@
-##⋅⋅*[C++ certificate:](https://www.sololearn.com/Certificate/1051-8244074/pdf/)
+C++ certificate:https://www.sololearn.com/Certificate/1051-8244074/pdf/
 ------------------------------------------------------------------------
 ##C certificate: https://www.sololearn.com/Certificate/1089-8244074/pdf/
 ------------------------------------------------------------------------
