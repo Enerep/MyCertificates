@@ -54,7 +54,7 @@ Configuration Management and the Cloud(Google): https://coursera.org/share/b738d
 ------------------------------------------------------------------------
 Automating Real-World Tasks with Python(Google): https://coursera.org/share/84df15b5da53edeea413d5a6c39e3f4c
 ------------------------------------------------------------------------
-   Google IT Automation with Python professional certificate: https://coursera.org/share/3c9036b5e208c5b51f8db30e1e28c7a2
+★Google IT Automation with Python professional certificate: https://coursera.org/share/3c9036b5e208c5b51f8db30e1e28c7a2
 ------------------------------------------------------------------------
-   Google IT Automation with Python professional certificate Badge:https://www.youracclaim.com/badges/875e63d8-9eff-4d1e-a91b-912b21a21896/public_url
+★Google IT Automation with Python professional certificate Badge:https://www.youracclaim.com/badges/875e63d8-9eff-4d1e-a91b-912b21a21896/public_url
 ------------------------------------------------------------------------
