@@ -58,3 +58,9 @@ Automating Real-World Tasks with Python(Google): https://coursera.org/share/84df
 ------------------------------------------------------------------------
 ★Google IT Automation with Python professional certificate Badge:https://www.youracclaim.com/badges/875e63d8-9eff-4d1e-a91b-912b21a21896/public_url
 ------------------------------------------------------------------------
+
+Technical Support Fundamentals(Google): https://coursera.org/share/b0b6b940d6622383c0828c7e7a6f444d
+------------------------------------------------------------------------
+The Bits and Bytes of Computer Networking(Google): https://coursera.org/share/a6330cc5a1eaca5d748f8bcc9dba64e7
+------------------------------------------------------------------------
+
