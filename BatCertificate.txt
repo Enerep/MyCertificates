@@ -62,3 +62,5 @@ Google IT Automation with Python Badge:https://www.youracclaim.com/badges/875e63
 Technical Support Fundamentals(Google): https://coursera.org/share/b0b6b940d6622383c0828c7e7a6f444d
 ------------------------------------------------------------------------
 The Bits and Bytes of Computer Networking(Google): https://coursera.org/share/a6330cc5a1eaca5d748f8bcc9dba64e7
+------------------------------------------------------------------------
+Operating Systems and You: Becoming a Power User(Google): https://coursera.org/share/1b60e208588c9e27156e69499a94893e
