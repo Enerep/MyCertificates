@@ -16,6 +16,8 @@ Andrew - Machine Learning(Coursera): https://drive.google.com/file/d/1HX1nFxjIVQ
 ------------------------------------------------------------------------
 JavaScript certificate: https://www.sololearn.com/Certificate/1024-8244074/pdf/
 ------------------------------------------------------------------------
+JavaScript certificate(2): https://www.sololearn.com/certificates/course/en/8244074/1024/landscape/png
+------------------------------------------------------------------------
 Java certificate: https://www.sololearn.com/Certificate/1068-8244074/pdf/
 ------------------------------------------------------------------------
 PHP certificate: https://www.sololearn.com/Certificate/1059-8244074/pdf/
