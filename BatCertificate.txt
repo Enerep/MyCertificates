@@ -20,6 +20,8 @@ JavaScript certificate(2): https://www.sololearn.com/certificates/course/en/8244
 ------------------------------------------------------------------------
 Java certificate: https://www.sololearn.com/Certificate/1068-8244074/pdf/
 ------------------------------------------------------------------------
+Java certificate(2): https://www.sololearn.com/certificates/course/en/8244074/1068/landscape/png
+------------------------------------------------------------------------
 PHP certificate: https://www.sololearn.com/Certificate/1059-8244074/pdf/
 ------------------------------------------------------------------------
 SQL certificate: https://www.sololearn.com/Certificate/1060-8244074/pdf/
