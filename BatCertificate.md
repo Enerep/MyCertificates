@@ -1,5 +1,7 @@
 C++ certificate:https://www.sololearn.com/Certificate/1051-8244074/pdf/
 ------------------------------------------------------------------------
+C++ certificate(2): https://www.sololearn.com/certificates/course/en/8244074/1051/landscape/png
+------------------------------------------------------------------------
 C certificate: https://www.sololearn.com/Certificate/1089-8244074/pdf/
 ------------------------------------------------------------------------
 HTML certificate: https://www.sololearn.com/Certificate/1014-8244074/pdf/
