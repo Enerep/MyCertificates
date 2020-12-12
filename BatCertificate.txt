@@ -75,3 +75,6 @@ System Administration and IT Infrastructure Services(Google): https://coursera.o
 ------------------------------------------------------------------------
 IT Security: Defense against the digital dark arts: https://coursera.org/share/617105b93762a96f67540efb041eb398
 ------------------------------------------------------------------------
+
+Google IT Support Professional Certificate Badge: https://www.youracclaim.com/badges/07de519d-da29-4743-91a0-a7f900db51fa/public_url
+------------------------------------------------------------------------
